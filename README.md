@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Toni Andström</h1>
-<h3 align="center">Currently studying to become a fullstack web developer</h3>
+<!-- <h3 align="center">Currently studying to become a fullstack web developer</h3> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
